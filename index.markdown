@@ -2,11 +2,11 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default
+layout: my_default
 title: Pablo Forero's personal webpage
 ---
 
-Data Scientist at Allfunds' Innovation Lab. Strong analytical and technological skills. Specialist in modelling and predictive analysis. Stochastic models, time series, dynamic programming, machine learning and neural networks. Enthusiast of free open source software and modern industry practices.
+Data Scientist at Allfunds' Innovation Lab. Strong analytical and technological skills. Specialist in modelling and predictive analysis. Stochastic models, time series, dynamic programming, machine learning and neural networks. Enthusiast of open source software and modern industry practices.
 
 # Work Experience
 
@@ -28,7 +28,7 @@ Data Scientist at Allfunds' Innovation Lab. Strong analytical and technological 
 
 <dl>
   <dt>Research</dt>
-  <dd>International Trade, Macroeconomics, Labour Economics, Computational Economics</dd>
+  <dd>International Trade, Macroeconomics</dd>
   <dt>Languages</dt>
   <dd>Spanish, English, French (Basic), Italian (Basic)</dd>
   <dt>Programming Languages</dt>
@@ -36,8 +36,8 @@ Data Scientist at Allfunds' Innovation Lab. Strong analytical and technological 
   <dt>Statistical Tools</dt>
   <dd>Excel, Dynare, Eviews, Stata</dd>
   <dt>Cloud Tools</dt>
-  <dd>BigQuery, Google Storage, Composer</dd>
-  <dt>Tools</dt>
-  <dd>Docker, Sphinx, Git, Office, Airflow, PyTorch</dd>
+  <dd>Google Cloud Platform, BigQuery</dd>
+  <dt>Technology Tools</dt>
+  <dd>Docker, Git, Office, Sphinx, Airflow, PyTorch</dd>
 </dl>
 
