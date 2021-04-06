@@ -2,8 +2,10 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: my_default
-title: Pablo Forero's personal webpage
+layout: single
+author_profile: true
+classes: wide
+
 ---
 
 Data Scientist at Allfunds' Innovation Lab. Strong analytical and technological skills. Specialist in modelling and predictive analysis. Stochastic models, time series, dynamic programming, machine learning and neural networks. Enthusiast of open source software and modern industry practices.
