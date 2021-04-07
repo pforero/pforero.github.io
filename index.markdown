@@ -5,6 +5,16 @@
 layout: single
 author_profile: true
 classes: wide
+gallery:
+  - image_path: /assets/images/skills/research.png
+    alt: "placeholder image 1"
+    title: "Research"
+  - image_path: /assets/images/skills/languages.png
+    alt: "placeholder image 2"
+    title: "Languages"
+  - image_path: /assets/images/skills/technology.png
+    alt: "placeholder image 3"
+    title: "Technology"
 
 ---
 
@@ -28,18 +38,4 @@ Data Scientist at Allfunds' Innovation Lab. Strong analytical and technological 
 
 # Skills
 
-<dl>
-  <dt>Research</dt>
-  <dd>International Trade, Macroeconomics</dd>
-  <dt>Languages</dt>
-  <dd>Spanish, English, French (Basic), Italian (Basic)</dd>
-  <dt>Programming Languages</dt>
-  <dd>Python, Matlab, SQL, LaTeX, Julia, VBA</dd>
-  <dt>Statistical Tools</dt>
-  <dd>Excel, Dynare, Eviews, Stata</dd>
-  <dt>Cloud Tools</dt>
-  <dd>Google Cloud Platform, BigQuery</dd>
-  <dt>Technology Tools</dt>
-  <dd>Docker, Git, Office, Sphinx, Airflow, PyTorch</dd>
-</dl>
-
+{% include gallery %}
