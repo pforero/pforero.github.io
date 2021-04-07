@@ -6,13 +6,13 @@ layout: single
 author_profile: true
 classes: wide
 gallery:
-  - image_path: /assets/images/skills/research.png
+  - image_path: /assets/images/skills/Research.png
     alt: "placeholder image 1"
     title: "Research"
-  - image_path: /assets/images/skills/languages.png
+  - image_path: /assets/images/skills/Languages.png
     alt: "placeholder image 2"
     title: "Languages"
-  - image_path: /assets/images/skills/technology.png
+  - image_path: /assets/images/skills/Technology.png
     alt: "placeholder image 3"
     title: "Technology"
 
