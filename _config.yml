@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Pablo Forero
-subtitle: Personal page
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Pablo Forero's personal webpage. Data Scientist. Economics Researcher. Madrid, Spain.
@@ -71,7 +70,7 @@ author:
       url: "https://github.com/pforero/personal-cv/blob/master/files/en/PabloForero_Resume_EN.pdf"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/"
+      url: "https://linkedin.com/in/pablo-forero"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pforero"
@@ -80,7 +79,7 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
-      url: "https://linkedin.com/"
+      url: "https://linkedin.com/in/pablo-forero"
     - label: "GitHub"
       icon: "fab fa-fw fa-github-square"
       url: "https://github.com/pforero"

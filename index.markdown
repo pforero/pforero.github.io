@@ -18,7 +18,7 @@ gallery:
 
 ---
 
-Data Scientist at Allfunds' Innovation Lab. Strong analytical and technological skills. Specialist in modelling and predictive analysis. Stochastic models, time series, dynamic programming, machine learning, and neural networks. Enthusiast of open source software and modern industry practices.
+Data Scientist at Allfunds' Innovation Lab. Strong analytical and technological skills. Specialist in modelling and predictive analysis. Stochastic models, time series, dynamic programming, machine learning, and neural networks. Enthusiast about open source software and modern industry practices.
 
 # Work Experience
 
@@ -26,7 +26,7 @@ Data Scientist at Allfunds' Innovation Lab. Strong analytical and technological 
 * Teaching Assistant for International Trade, SAIS John Hopkins (2015)
 * Analyst for Asset Management, BANIF (2009 - 2010)
 * Intern at the Research Department, Renaissance Capital (2008)
-* Intern, CQS Hedge Fund (2008)
+* Intern at CQS (2008)
 * Intern at the Research Department, ING Capital (2007)
 
 # Education
