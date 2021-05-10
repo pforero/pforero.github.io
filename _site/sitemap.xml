@@ -58,4 +58,12 @@
 <url>
 <loc>http://localhost:4000/page2/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/assets/files/Competition%20Tasks%20and%20Earnings%20Inequality%20-%20Presentation.pdf</loc>
+<lastmod>2021-05-10T17:41:06+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/files/Competition%20Tasks%20and%20Earnings%20Inequality.pdf</loc>
+<lastmod>2021-05-10T17:41:06+02:00</lastmod>
+</url>
 </urlset>

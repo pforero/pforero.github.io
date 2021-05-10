@@ -2,7 +2,7 @@
 permalink: /research/
 title: "Research"
 gallery:
-  - url: https://github.com/pforero/pforero.github.io/blob/master/assets/files/Competition_Tasks_and_Earnings_Inequality.pdf
+  - url: https://www.dropbox.com/home/Public/Research?preview=Competition+Tasks+and+Earnings+Inequality.pdf
     image_path: /assets/images/research/Competition.png
     alt: "placeholder image 1"
     title: "Competition, Tasks and Earnings Inequality"
@@ -15,4 +15,4 @@ Since 2000 developed countries like the US have seen a polarization of earnings.
 
 {% include gallery class="full" %}
 
-[Presentation](../blob/master/assets/files/Competition_Tasks_and_Earnings_Inequality_Presentation.pdf)
+[Presentation](https://www.dropbox.com/home/Public/Research?preview=Competition+Tasks+and+Earnings+Inequality+-+Presentation.pdf)
