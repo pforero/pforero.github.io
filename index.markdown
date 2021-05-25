@@ -22,7 +22,7 @@ Data Scientist at Allfunds' Innovation Lab. Strong analytical and technological 
 
 # Work Experience
 
-* Data Scientist at Innovation Lab, Allfunds (2018 - Present)
+* Senior Data Scientist at Innovation Lab, Allfunds (2018 - Present)
 * Teaching Assistant for International Trade, SAIS John Hopkins (2015)
 * Analyst for Asset Management, BANIF (2009 - 2010)
 * Intern at the Research Department, Renaissance Capital (2008)
