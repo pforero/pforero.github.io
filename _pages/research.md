@@ -2,7 +2,7 @@
 permalink: /research/
 title: "Research"
 gallery:
-  - url: https://www.dropbox.com/home/Public/Research?preview=Competition+Tasks+and+Earnings+Inequality.pdf
+  - url: https://www.dropbox.com/s/dv1r3t9im43xgno/Competition%20Tasks%20and%20Earnings%20Inequality.pdf?dl=0
     image_path: /assets/images/research/Competition.png
     alt: "placeholder image 1"
     title: "Competition, Tasks and Earnings Inequality"
@@ -15,4 +15,4 @@ Since 2000 developed countries like the US have seen a polarization of earnings.
 
 {% include gallery class="full" %}
 
-[Presentation](https://www.dropbox.com/home/Public/Research?preview=Competition+Tasks+and+Earnings+Inequality+-+Presentation.pdf)
+[Presentation](https://www.dropbox.com/s/j42y3o0w2ugc9a0/Competition%20Tasks%20and%20Earnings%20Inequality%20-%20Presentation.pdf?dl=0)
